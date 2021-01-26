@@ -1,8 +1,1 @@
-# UX Portfolio
-
-
-## UX Team Project
-
-
-## UX Journal
-
+# Carlson Smith UX-Portfolio Project
