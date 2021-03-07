@@ -4,4 +4,4 @@
 
 ## UX Journal
 
-<a href="N3mines.github.io/J01.pdf" target="_blank">PDF</a>
+<a href="https://usabilityengineering.github.io/ux-portfolio-N3mines/J01.pdf" target="_blank">J01</a>
