@@ -1,4 +1,4 @@
-# Carlson Smith's user eXperience without experience
+# Carlson Smith's user eXperience with some experience
 
 ## UX Team Project
 
