@@ -9,6 +9,7 @@ CSCI301W<br />
 ![image](assets/espressoMachine.jpg)<br />
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As one looks closer by rotating the handle pointing toward you, the place to put coffee beans is found.  Looking again, you might make out the ***Affordance*** setting on the dial with the little images that look like a cup of coffee and steam.  The only issue is you don’t know how to turn on this device or what steam and coffee cup settings do.  With a little fiddling, you figure out that turning the dial gets things moving with a light and sound starting the water heating process up.<br />
+<br />
 ![image](assets/coffeeSetting.jpg)<br />
 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After turning the dial to the coffee cup and waiting, you get espresso coming out of the little cup you put in earlier and you’re ready to start your day and head off to start zoom class.  One issue is presented in this process, the compressed hot water is still sitting there waiting to be released.  The ***Safety*** of this is not the best from my experience as one releases the sealed lid on top and promptly gets burnt by piping hot steam.  The only way to avoid this is to turn the dial towards the steam side which is normally meant to steam the milk for your coffee.<br />
