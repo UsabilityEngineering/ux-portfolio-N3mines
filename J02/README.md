@@ -4,7 +4,7 @@ CSCI301W<br />
 
 # Morning Coffee
 
-  It’s the morning and time for another cup of coffee to get the day started.  As I go digging around to find my Moms’ old espresso machine I end up finding myself with the question of “how do I use this thing?”.  For someone who’s experienced in making espresso it might be trivial, but for someone who is used to a Keurig coffee maker, this machine is very foreign.  I can guess where coffee beans might go, and figure out where the water is placed with the nice message on top of the dome-looking lid, but that’s really all you initially get.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It’s the morning and time for another cup of coffee to get the day started.  As I go digging around to find my Moms’ old espresso machine I end up finding myself with the question of “how do I use this thing?”.  For someone who’s experienced in making espresso it might be trivial, but for someone who is used to a Keurig coffee maker, this machine is very foreign.  I can guess where coffee beans might go, and figure out where the water is placed with the nice message on top of the dome-looking lid, but that’s really all you initially get.<br />
 ![image](assets/espressoMachine.jpg)<br />
   As one looks closer by rotating the handle pointing toward you, the place to put coffee beans is found.  Looking again, you might make out the ***Affordance*** setting on the dial with the little images that look like a cup of coffee and steam.  The only issue is you don’t know how to turn on this device or what steam and coffee cup settings do.  With a little fiddling, you figure out that turning the dial gets things moving with a light and sound starting the water heating process up.<br />
 ![image](assets/coffeeSetting.jpg)<br />
