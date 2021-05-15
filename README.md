@@ -2,7 +2,7 @@
 
 ## UX Team Project
 
-<a href="https://github.com/UsabilityEngineering/ThatWineIsMine" target="_blank">That Wine is Mine</a><br />
+<a href="https://usabilityengineering.github.io/ThatWineIsMine/" target="_blank">That Wine is Mine</a><br />
 
 ## UX Journal
 
