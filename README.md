@@ -2,7 +2,7 @@
 
 ## UX Team Project
 
-semester-long project that involved three major phases of usability engineering: requirements gathering, interface design, and evaluation
+A semester-long project that involved three major phases of usability engineering: requirements gathering, interface design, and evaluation
 
 <a href="https://usabilityengineering.github.io/ThatWineIsMine/" target="_blank">That Wine is Mine</a><br />
 
